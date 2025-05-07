@@ -1,0 +1,5 @@
+sender_key: "[207,....,78]"  # Replace with your private key
+recipient: ""  # Replace with recipient address
+amount_sol: 0.001  # Amount to send in SOL
+grpc_endpoint: "https://grpc.ny.shyft.to"
+grpc_api_key: ""
