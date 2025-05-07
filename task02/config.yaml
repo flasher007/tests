@@ -1,0 +1,8 @@
+senders:
+  - key: "[207,...,78]"  # Replace with actual private key
+  - key: "[...]"  # Replace with actual private key
+  
+recipients:
+  - "7npDRsTxvsG5QFmEZr8znKYWPHuai3d5FUu1RrCwv1Wv"
+
+amount_sol: 0.01  # Amount to send from each wallet in SOL
